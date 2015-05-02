@@ -12,7 +12,7 @@ TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = u'en'
 
-THEME = "/home/proteus/gitrepo444/pelican-themes/svbtle"
+THEME = "/home/proteus/gitrepo444/pelican-themes/irfan"
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
